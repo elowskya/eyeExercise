@@ -15,7 +15,7 @@
 <p>Possibly making this a smaller face and more towards animated objects with different events allowed to allow different interactions like jump, walk, and change color.
 
 <h3>Check it out:</h3>
-<a href="https://github.com/elowskya/eyeExercise">Here</a>
+<a href="https://elowskya.github.io/eyeExercise/">https://elowskya.github.io/eyeExercise/</a>
 
 
 <h3>License Information</h3>
