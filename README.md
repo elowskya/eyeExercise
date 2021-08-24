@@ -1,5 +1,5 @@
 <h1>Eye Exercise</h1>
-<img src="preview.PNG">
+<img src="preview.JPG">
 
 <h2>DESCRIPTION</h2>
 <p>This project uses vanilla JavaScript with 'onmousemove' event to trigger with the mouse moving on the window to move the "pupils" around the eyes.</p>
